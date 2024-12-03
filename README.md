@@ -1,4 +1,4 @@
-# PyGame
+# PyGame Day In The Life
 
 Authors:
 Yvette Boyd
